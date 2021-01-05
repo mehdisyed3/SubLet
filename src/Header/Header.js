@@ -4,6 +4,7 @@ import SearchIcon from '@material-ui/icons/Search'
 import ExpandMoreIcon from '@material-ui/icons/ExpandMore'
 import LanguageIcon from '@material-ui/icons/Language'
 import { Avatar } from '@material-ui/core'
+import { Link } from 'react-router-dom'
 
 
 
@@ -11,8 +12,10 @@ import { Avatar } from '@material-ui/core'
 function Header() {
   return (
     <div className='header'>
-      <img className='header__logo' src='https://image.freepik.com/free-vector/urban-building-skyline-panoramic-night_107791-1696.jpg' alt='' />
-
+      <Link to='/'>
+        <img className='header__logo' src='https://image.freepik.com/free-vector/urban-building-skyline-panoramic-night_107791-1696.jpg' alt='' />
+      </Link>
+      
       <div className='header__inputSearch' >
 
         <input type='text' />
