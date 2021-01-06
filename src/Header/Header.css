@@ -30,6 +30,15 @@ margin-bottom: 10px;
 
 }
 
+.header__name{
+  font-family: fantasy;
+  
+  color: blueviolet;
+  margin-left: 28px;
+  margin-top: -8px;
+  text-decoration: none;
+}
+
 .header__inputSearch >input {
   border:none;
   outline-width: 0;

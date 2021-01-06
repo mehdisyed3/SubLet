@@ -4,7 +4,7 @@ import "./Footer.css"
 function Footer() {
   return (
     <div className='footer'>
-    <p>© 2021 Sublet - No rights reserved - this is a Sample Project.</p>
+    <p>© 2021 Sublet - No rights reserved - This is a Sample Project.</p>
     <p>Privacy · Terms · Sitemap · Company Details · About Us </p> 
     </div>
   )

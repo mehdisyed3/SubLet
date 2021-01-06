@@ -12,8 +12,9 @@ import { Link } from 'react-router-dom'
 function Header() {
   return (
     <div className='header'>
-      <Link to='/'>
+      <Link style={{ textDecoration: 'none' }} to='/'>
         <img className='header__logo' src='https://image.freepik.com/free-vector/urban-building-skyline-panoramic-night_107791-1696.jpg' alt='' />
+        <h5 className='header__name'>Sublet</h5>
       </Link>
       
       <div className='header__inputSearch' >
