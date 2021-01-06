@@ -17,7 +17,7 @@
 
 
 .banner__info > button{
-  background-color: rgb(90, 44, 169);
+  background-color: blueviolet;
   color: white;
   text-transform: inherit;
   margin-top: 20px;
@@ -27,7 +27,7 @@
 
 .banner__info > button:hover {
   background-color: white;
-  color:rgb(90, 44, 169)
+  color:blueviolet
 }
 
 .banner__info > h5{
@@ -39,7 +39,7 @@
 }
 .banner__searchButton{
   background-color: white !important;
-  color: rgb(90, 44, 169) !important;
+  color:blueviolet!important;
   text-transform: inherit !important;
   margin-top: 0px !important;
   font-weight: 900 !important;

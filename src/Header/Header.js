@@ -24,7 +24,7 @@ function Header() {
       </div>
 
       <div className='header__right' >
-        <p>Become a host</p>
+        <p>Sublet your space</p>
         <LanguageIcon />
         <ExpandMoreIcon />
         <Avatar />
