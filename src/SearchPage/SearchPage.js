@@ -17,7 +17,7 @@ function SearchPage() {
       </div>
       <SearchResult
                 img="https://images.pexels.com/photos/3701434/pexels-photo-3701434.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
-                location="Private room in center of London"
+                location="Private room in center of Toronto"
                 title="Stay at this spacious Edwardian House"
                 description="1 guest · 1 bedroom · 1 bed · 1.5 shared bathrooms · Wifi · Kitchen · Free parking · Washing Machine"
                 star={4.73}
@@ -26,7 +26,7 @@ function SearchPage() {
             />$
             <SearchResult
                 img="https://images.pexels.com/photos/3144580/pexels-photo-3144580.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
-                location="Private room in center of London"
+                location="Private room in center of Toronto"
                 title="Independant luxury studio apartment"
                 description="2 guest · 3 bedroom · 1 bed · 1.5 shared bathrooms · Wifi · Kitchen"
                 star={4.3}
@@ -36,8 +36,8 @@ function SearchPage() {
 
             <SearchResult
                 img="https://images.pexels.com/photos/5997965/pexels-photo-5997965.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260://www.smartertravel.com/uploads/2017/07/Untitled-design-8.jpg"
-                location="Private room in center of London"
-                title="London Studio Apartments"
+                location="Private room in center of Toronto"
+                title="Toronto Studio Apartments"
                 description="4 guest · 4 bedroom · 4 bed · 2 bathrooms · Free parking · Washing Machine"
                 star={3.8}
                 price="$35 / night"
@@ -45,8 +45,8 @@ function SearchPage() {
             />
             <SearchResult
                 img="https://images.pexels.com/photos/5998039/pexels-photo-5998039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
-                location="Private room in center of London"
-                title="30 mins to Oxford Street, Excel London"
+                location="Private room in center of Toronto"
+                title="30 mins to Oxford Street, Excel Toronto"
                 description="1 guest · 1 bedroom · 1 bed · 1.5 shared bathrooms · Wifi · Kitchen · Free parking · Washing Machine"
                 star={4.1}
                 price="$55 / night"
@@ -54,7 +54,7 @@ function SearchPage() {
             />
             <SearchResult
                 img="https://images.pexels.com/photos/5824522/pexels-photo-5824522.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
-                location="Private room in center of London"
+                location="Private room in center of Toronto"
                 title="Spacious Peaceful Modern Bedroom"
                 description="3 guest · 1 bedroom · 1 bed · 1.5 shared bathrooms · Wifi · Free parking · Dry Cleaning"
                 star={5.0}
@@ -63,8 +63,8 @@ function SearchPage() {
             />
             <SearchResult
                 img="https://images.pexels.com/photos/275484/pexels-photo-275484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
-                location="Private room in center of London"
-                title="The Blue Room In London"
+                location="Private room in center of Toronto"
+                title="The Blue Room In Toronto"
                 description="2 guest · 1 bedroom · 1 bed · 1.5 shared bathrooms · Wifi · Washing Machine"
                 star={4.23}
                 price="$65 / night"
@@ -72,7 +72,7 @@ function SearchPage() {
             />
             <SearchResult
                 img="https://images.pexels.com/photos/1571459/pexels-photo-1571459.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
-                location="Private room in center of London"
+                location="Private room in center of Toronto"
                 title="5 Star Luxury Apartment"
                 description="3 guest · 1 bedroom · 1 bed · 1.5 shared b$throoms · Wifi · Kitchen · Free parking · Washing Machine"
                 star={3.85}

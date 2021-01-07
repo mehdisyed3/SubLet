@@ -1,5 +1,6 @@
 .home__section{
   display: flex;
   padding: 3px;
-
+  max-width: 85%;
+  padding-left: 3.1%;
 }

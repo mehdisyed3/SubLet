@@ -13,7 +13,7 @@ function Home() {
             <Card
                 src="https://images.pexels.com/photos/314937/pexels-photo-314937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
                 title="Experience the Countyside"
-                description="=Enjoy the sound of nature, and breath fresh air."
+                description="Enjoy the sound of nature, and breath fresh air."
             />
             <Card
                 src="https://a0.muscache.com/im/pictures/15159c9c-9cf1-400e-b809-4e13f286fa38.jpg?im_w=720"
