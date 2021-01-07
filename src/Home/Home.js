@@ -11,9 +11,9 @@ function Home() {
 
       <div className='home__section'>
             <Card
-                src="https://a0.muscache.com/im/pictures/eb9c7c6a-ee33-414a-b1ba-14e8860d59b3.jpg?im_w=720"
-                title="Online Experiences"
-                description="Unique activities we can do together, led by a world of hosts."
+                src="https://images.pexels.com/photos/314937/pexels-photo-314937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+                title="Experience the Countyside"
+                description="=Enjoy the sound of nature, and breath fresh air."
             />
             <Card
                 src="https://a0.muscache.com/im/pictures/15159c9c-9cf1-400e-b809-4e13f286fa38.jpg?im_w=720"
@@ -21,26 +21,26 @@ function Home() {
                 description="Spaces that are more than just a place to sleep."
             />
             <Card
-                src="https://a0.muscache.com/im/pictures/fdb46962-10c1-45fc-a228-d0b055411448.jpg?im_w=720"
+                src="https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
                 title="Entire homes"
                 description="Comfortable private places, with room for friends or family."
             />
             </div>
             <div className='home__section'>
             <Card
-                src="https://media.nomadicmatt.com/2019/airbnb_breakup3.jpg"
-                title="3 Bedroom Flat in Bournemouth"
+                src="https://images.pexels.com/photos/5998117/pexels-photo-5998117.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+                title="3 Bedroom Luxury Apartment in Toronto"
                 description="Superhost with a stunning view of the beachside in Sunny Bournemouth"
                 price="$130/night"
             />
             <Card
-                src="https://thespaces.com/wp-content/uploads/2017/08/Courtesy-of-Airbnb.jpg"
-                title="Penthouse in London"
-                description="Enjoy the amazing sights of London with this stunning penthouse"
+                src="https://images.pexels.com/photos/221457/pexels-photo-221457.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+                title="Penthouse in Toronto"
+                description="Enjoy the amazing sights of Toronto with this stunning penthouse"
                 price="$350/night"
             />
             <Card
-                src="https://media.nomadicmatt.com/2018/apartment.jpg"
+                src="https://images.pexels.com/photos/5998033/pexels-photo-5998033.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
                 title="1 Bedroom apartment"
                 description="Superhost with great amenities and a fabolous shopping complex nearby"
                 price="$70/night"
