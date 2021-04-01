@@ -1,48 +1,44 @@
-.banner{
-  background: url('https://besthqwallpapers.com/Temp/5-1-2021/stylish-living-room-design-minimalism-in-the-living-room-modern-interior-design-white-glossy-floor-in-the-living-room-white-walls-in-the-living-room-besthqwallpapers.com-1280x960.jpg') center center;
-  height:50vh;
-  position: relative;
-
+.banner {
+	background: url('../image/K978Of.jpg') center center;
+	background-size: cover;
+	height: 50vh;
+	position: relative;
 }
 
-.banner__info{
-  background-color: black;
-  color: white;
-  padding-top: 5vh;
-  padding-left: 20px;
-  padding-right: 20px;
-  padding-bottom: 60px;
-  width: 280px;
+.banner__info {
+	background-color: black;
+	color: white;
+	padding-top: 5vh;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 60px;
+	width: 280px;
 }
 
-
-.banner__info > button{
-  background-color: blueviolet;
-  color: white;
-  text-transform: inherit;
-  margin-top: 20px;
-  font-weight: 600;
-
+.banner__info > button {
+	background-color: blueviolet;
+	color: white;
+	text-transform: inherit;
+	margin-top: 20px;
+	font-weight: 600;
 }
 
 .banner__info > button:hover {
-  background-color: white;
-  color:blueviolet
+	background-color: white;
+	color: blueviolet;
 }
 
-.banner__info > h5{
-  margin-top: 10px;
+.banner__info > h5 {
+	margin-top: 10px;
 }
 .banner__search {
-  display: flex;
-  flex-direction: column;
+	display: flex;
+	flex-direction: column;
 }
-.banner__searchButton{
-  background-color: white !important;
-  color:blueviolet!important;
-  text-transform: inherit !important;
-  margin-top: 0px !important;
-  font-weight: 900 !important;
-  
+.banner__searchButton {
+	background-color: white !important;
+	color: blueviolet !important;
+	text-transform: inherit !important;
+	margin-top: 0px !important;
+	font-weight: 900 !important;
 }
-
